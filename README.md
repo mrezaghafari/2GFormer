@@ -17,6 +17,7 @@ Feel free to use the code, and if you find it useful, please cite our work:
 
 **Paper**: [Point Cloud Geometry Coding with Relational Neighborhood Self-Attention](https://ieeexplore.ieee.org/abstract/document/10743834)
 ```M. Ghafari, A. F. R. Guarda, N. M. M. Rodrigues and F. Pereira, "Point Cloud Geometry Coding with Relational Neighborhood Self-Attention," 2024 IEEE 26th International Workshop on Multimedia Signal Processing (MMSP), West Lafayette, IN, USA, 2024, pp. 1-6, doi: 10.1109/MMSP61759.2024.10743834.```
+
 **Paper**: [Scalable Graph-Guided Transformer for Point Cloud Geometry Coding](https://ieeexplore.ieee.org/abstract/document/11123804)
 ```M. Ghafari, A. F. R. Guarda, N. M. M. Rodrigues and F. Pereira, "Scalable Graph-Guided Transformer for Point Cloud Geometry Coding," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2025.3598605. ```
 
